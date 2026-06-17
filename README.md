@@ -291,7 +291,7 @@ Recording application activity for future reference.
 
 ## Organized Folder Structure
 
-![Result](screenshots/result.png)
+![Result](screenshots/results.png)
 
 ---
 
